@@ -15,6 +15,8 @@ public class delete {
                 }
             return n; 
     }
+//create an array for staging
+
     public static void main(String[] args){
         int[] arr = {6, 8, 12, 15, 45, 67, 78};
         int n = arr.length;
